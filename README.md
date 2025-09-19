@@ -2,8 +2,8 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
-Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
+## Infromación del estudiante
+José David Ramírez Ruiz [22212268]: L22212268@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
